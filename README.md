@@ -10,12 +10,12 @@ _Que cosas necesitas para instalar el software y como instalarlas_
 
 ```
 Para Windows
-1. Windows 10, updated to version 2004, compilación  18362 o una versión más reciente.
-2. Instalar WSL 
-3. Instalar Docker
-https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers
+* Windows 10, updated to version 2004, compilación  18362 o una versión más reciente.
+* Instalar WSL 
+* Instalar Docker
+[Documentación completa](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers)
 
-4. Clonar este repositorio
+* Clonar este repositorio
 ```
 ### Instalación 🔧
 
