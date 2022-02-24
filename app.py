@@ -11,7 +11,7 @@ from bson import ObjectId
 app = Flask(__name__)
 
 #Routes
-from clientes import routes
+#from clientes import routes
 
 
 def connDb():
