@@ -9,10 +9,13 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 _Que cosas necesitas para instalar el software y como instalarlas_
 
 ```
-1. Docker Desktop
-https://www.docker.com/products/docker-desktop
+Para Windows
+1. Windows 10, updated to version 2004, compilación  18362 o una versión más reciente.
+2. Instalar WSL 
+3. Instalar Docker
+https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers
 
-2. Clonar este repositorio
+4. Clonar este repositorio
 ```
 ### Instalación 🔧
 
