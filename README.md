@@ -6,14 +6,13 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+_Instalar Docker_
 
 ```
 Para Windows
 * Windows 10, updated to version 2004, compilación  18362 o una versión más reciente.
 * Instalar WSL 
-* Instalar Docker
-[Documentación completa](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers)
+* [Documentación completa para instalar](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers/)
 
 * Clonar este repositorio
 ```
