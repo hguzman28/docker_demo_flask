@@ -7,14 +7,11 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 ### Pre-requisitos 📋
 
 _Instalar Docker_
-[SemVer](http://semver.org/)
+[Para Windows](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers/)
 ```
 Para Windows
 * Windows 10, updated to version 2004, compilación  18362 o una versión más reciente.
 * Instalar WSL 
-* [InstallDocker](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers/)
-[SemVer](http://semver.org/)
-
 * Clonar este repositorio
 ```
 ### Instalación 🔧
