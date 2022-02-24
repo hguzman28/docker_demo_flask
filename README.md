@@ -25,11 +25,11 @@ docker-compose up -d
 
 ## Ejecutando las pruebas ⚙️
 
-_Para validar que todo esta corriendo, donde el state de la app y db debe estar UP_
-
+*_Para validar que todo esta corriendo, donde el state de la app y db debe estar UP_
 ```
 docker-compose ps
 ```
+* _Ir al navegador preferido y entrar con http://localhost_
 
 ## Autores ✒️
 
