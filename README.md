@@ -12,7 +12,8 @@ _Instalar Docker_
 Para Windows
 * Windows 10, updated to version 2004, compilación  18362 o una versión más reciente.
 * Instalar WSL 
-* [Documentación completa para instalar](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers/)
+* [InstallDocker](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers/)
+
 
 * Clonar este repositorio
 ```
